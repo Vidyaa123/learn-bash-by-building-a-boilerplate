@@ -476,3 +476,6 @@ history -a
 rm --help
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+rm -r fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
